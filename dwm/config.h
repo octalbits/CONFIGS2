@@ -29,6 +29,7 @@ static const char *const autostart[] = {
 	"numlockx", NULL,
 	"picom", "-f", NULL,
 	"udiskie", NULL,
+	"mpd", NULL,
 	NULL /* terminate */
 };
 
