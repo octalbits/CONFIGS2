@@ -4,7 +4,7 @@ static const Block blocks[] = {
 	{"", 	"~/.config/dwmblocks/scripts/sb-volume",			0,		 1},
 	{"",	"~/.config/dwmblocks/scripts/sb-battery",			5,		 0},
 	{" ", "free -h | awk '/^Mem/ { print $3\"/\"$2 }' | sed s/i//g",	10,		 0},
-	{" ", "date '+%a %B %d %I:%M %p'",					60,		 0},
+	{" ", "date '+%a %B %d %I:%M%p'",					60,		 0},
 };
 
 //sets delimeter between status commands. NULL character ('\0') means no delimeter.
