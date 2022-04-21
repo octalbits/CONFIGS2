@@ -17,8 +17,8 @@ static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
 #define ICONSIZE 16   /* icon size */
 #define ICONSPACING 5 /* space between icon and title */
-static const char *fonts[]          = { "CaskaydiaCove Nerd Font:size=10" };
-static const char dmenufont[]       = "CaskaydiaCove Nerd Font:size=10";
+static const char *fonts[]          = { "CaskaydiaCove Nerd Font:size=13" };
+static const char dmenufont[]       = "CaskaydiaCove Nerd Font:size=13";
 static const char col_gray1[]       = "#222222";
 static const char col_gray2[]       = "#444444";
 static const char col_gray3[]       = "#bbbbbb";
